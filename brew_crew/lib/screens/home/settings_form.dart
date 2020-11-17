@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:brew_crew/screens/models/user.dart';
 import 'package:brew_crew/services/database.dart';
 import 'package:brew_crew/shared/constants.dart';
